@@ -1,0 +1,13 @@
+{
+    "json": {
+      "enabled": false
+    },
+    "stepDefinitions": [
+      "[filepath]/**/*.{js,ts}",
+      "[filepath].{js,ts}",
+      "cypress/e2e/step_definitions/***/*js",
+      "[filepath]/***.{js,ts}",
+      "[filepath].{js,ts}",
+      "cypress/e2e/step_definitions/*.{js,ts}"
+    ]
+  }
